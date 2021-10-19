@@ -34,3 +34,16 @@ header { /* Header */
 }
 
 h2 {margin-bottom: 20px;}
+
+h3 {
+    margin: 10px 0;
+    color: dodgerblue;
+}
+
+.believe {
+    font-weight: bold;
+}
+
+.see {
+    color: gold;
+}
