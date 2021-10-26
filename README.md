@@ -6,7 +6,7 @@ HTML webpage rendering using Python Flask
 
 ---
 
-### Perhaps I've been fooling around for too long.
+### Concept website developed as an alternative to JavaScript
 
 Time to move on, but feel free to play with this repository as you please if you are interested in furthering web development with Python. I'm just playing with some basic FLASK library modules here. :)
 
